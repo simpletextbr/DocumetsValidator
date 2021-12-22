@@ -1,6 +1,6 @@
 # Documents Validator
 
-![Preview-Screens]
+![Preview-Screens](https://raw.githubusercontent.com/simpletextbr/DocumetsValidator/master/Preview-Screens/Debug_Console.png)
 
 # About this Project
 
